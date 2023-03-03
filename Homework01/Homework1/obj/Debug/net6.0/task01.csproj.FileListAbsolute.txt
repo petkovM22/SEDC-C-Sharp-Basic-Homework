@@ -1,0 +1,15 @@
+C:\Users\petko\OneDrive\Desktop\c#\homework\Homework1\Homework1\obj\Debug\net6.0\task01.csproj.AssemblyReference.cache
+C:\Users\petko\OneDrive\Desktop\c#\homework\Homework1\Homework1\obj\Debug\net6.0\task01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\petko\OneDrive\Desktop\c#\homework\Homework1\Homework1\obj\Debug\net6.0\task01.AssemblyInfoInputs.cache
+C:\Users\petko\OneDrive\Desktop\c#\homework\Homework1\Homework1\obj\Debug\net6.0\task01.AssemblyInfo.cs
+C:\Users\petko\OneDrive\Desktop\c#\homework\Homework1\Homework1\obj\Debug\net6.0\task01.csproj.CoreCompileInputs.cache
+C:\Users\petko\OneDrive\Desktop\c#\homework\Homework1\Homework1\bin\Debug\net6.0\task01.exe
+C:\Users\petko\OneDrive\Desktop\c#\homework\Homework1\Homework1\bin\Debug\net6.0\task01.deps.json
+C:\Users\petko\OneDrive\Desktop\c#\homework\Homework1\Homework1\bin\Debug\net6.0\task01.runtimeconfig.json
+C:\Users\petko\OneDrive\Desktop\c#\homework\Homework1\Homework1\bin\Debug\net6.0\task01.dll
+C:\Users\petko\OneDrive\Desktop\c#\homework\Homework1\Homework1\bin\Debug\net6.0\task01.pdb
+C:\Users\petko\OneDrive\Desktop\c#\homework\Homework1\Homework1\obj\Debug\net6.0\task01.dll
+C:\Users\petko\OneDrive\Desktop\c#\homework\Homework1\Homework1\obj\Debug\net6.0\refint\task01.dll
+C:\Users\petko\OneDrive\Desktop\c#\homework\Homework1\Homework1\obj\Debug\net6.0\task01.pdb
+C:\Users\petko\OneDrive\Desktop\c#\homework\Homework1\Homework1\obj\Debug\net6.0\task01.genruntimeconfig.cache
+C:\Users\petko\OneDrive\Desktop\c#\homework\Homework1\Homework1\obj\Debug\net6.0\ref\task01.dll

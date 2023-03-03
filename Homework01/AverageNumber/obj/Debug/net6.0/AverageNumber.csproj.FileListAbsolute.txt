@@ -1,0 +1,15 @@
+C:\Users\petko\OneDrive\Desktop\c#\homework\Homework1\AverageNumber\bin\Debug\net6.0\AverageNumber.exe
+C:\Users\petko\OneDrive\Desktop\c#\homework\Homework1\AverageNumber\bin\Debug\net6.0\AverageNumber.deps.json
+C:\Users\petko\OneDrive\Desktop\c#\homework\Homework1\AverageNumber\bin\Debug\net6.0\AverageNumber.runtimeconfig.json
+C:\Users\petko\OneDrive\Desktop\c#\homework\Homework1\AverageNumber\bin\Debug\net6.0\AverageNumber.dll
+C:\Users\petko\OneDrive\Desktop\c#\homework\Homework1\AverageNumber\bin\Debug\net6.0\AverageNumber.pdb
+C:\Users\petko\OneDrive\Desktop\c#\homework\Homework1\AverageNumber\obj\Debug\net6.0\AverageNumber.csproj.AssemblyReference.cache
+C:\Users\petko\OneDrive\Desktop\c#\homework\Homework1\AverageNumber\obj\Debug\net6.0\AverageNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\petko\OneDrive\Desktop\c#\homework\Homework1\AverageNumber\obj\Debug\net6.0\AverageNumber.AssemblyInfoInputs.cache
+C:\Users\petko\OneDrive\Desktop\c#\homework\Homework1\AverageNumber\obj\Debug\net6.0\AverageNumber.AssemblyInfo.cs
+C:\Users\petko\OneDrive\Desktop\c#\homework\Homework1\AverageNumber\obj\Debug\net6.0\AverageNumber.csproj.CoreCompileInputs.cache
+C:\Users\petko\OneDrive\Desktop\c#\homework\Homework1\AverageNumber\obj\Debug\net6.0\AverageNumber.dll
+C:\Users\petko\OneDrive\Desktop\c#\homework\Homework1\AverageNumber\obj\Debug\net6.0\refint\AverageNumber.dll
+C:\Users\petko\OneDrive\Desktop\c#\homework\Homework1\AverageNumber\obj\Debug\net6.0\AverageNumber.pdb
+C:\Users\petko\OneDrive\Desktop\c#\homework\Homework1\AverageNumber\obj\Debug\net6.0\AverageNumber.genruntimeconfig.cache
+C:\Users\petko\OneDrive\Desktop\c#\homework\Homework1\AverageNumber\obj\Debug\net6.0\ref\AverageNumber.dll
