@@ -1,0 +1,15 @@
+C:\Users\petko\OneDrive\Desktop\c#\homework\Homework02\Homework02\bin\Debug\net6.0\Homework02.exe
+C:\Users\petko\OneDrive\Desktop\c#\homework\Homework02\Homework02\bin\Debug\net6.0\Homework02.deps.json
+C:\Users\petko\OneDrive\Desktop\c#\homework\Homework02\Homework02\bin\Debug\net6.0\Homework02.runtimeconfig.json
+C:\Users\petko\OneDrive\Desktop\c#\homework\Homework02\Homework02\bin\Debug\net6.0\Homework02.dll
+C:\Users\petko\OneDrive\Desktop\c#\homework\Homework02\Homework02\bin\Debug\net6.0\Homework02.pdb
+C:\Users\petko\OneDrive\Desktop\c#\homework\Homework02\Homework02\obj\Debug\net6.0\Homework02.csproj.AssemblyReference.cache
+C:\Users\petko\OneDrive\Desktop\c#\homework\Homework02\Homework02\obj\Debug\net6.0\Homework02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\petko\OneDrive\Desktop\c#\homework\Homework02\Homework02\obj\Debug\net6.0\Homework02.AssemblyInfoInputs.cache
+C:\Users\petko\OneDrive\Desktop\c#\homework\Homework02\Homework02\obj\Debug\net6.0\Homework02.AssemblyInfo.cs
+C:\Users\petko\OneDrive\Desktop\c#\homework\Homework02\Homework02\obj\Debug\net6.0\Homework02.csproj.CoreCompileInputs.cache
+C:\Users\petko\OneDrive\Desktop\c#\homework\Homework02\Homework02\obj\Debug\net6.0\Homework02.dll
+C:\Users\petko\OneDrive\Desktop\c#\homework\Homework02\Homework02\obj\Debug\net6.0\refint\Homework02.dll
+C:\Users\petko\OneDrive\Desktop\c#\homework\Homework02\Homework02\obj\Debug\net6.0\Homework02.pdb
+C:\Users\petko\OneDrive\Desktop\c#\homework\Homework02\Homework02\obj\Debug\net6.0\Homework02.genruntimeconfig.cache
+C:\Users\petko\OneDrive\Desktop\c#\homework\Homework02\Homework02\obj\Debug\net6.0\ref\Homework02.dll
