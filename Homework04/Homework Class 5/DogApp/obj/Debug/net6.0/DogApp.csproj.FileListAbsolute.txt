@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\c#\homework\Homework04\Homework Class 5\DogApp\bin\Debug\net6.0\DogApp.exe
+C:\Users\PC\Desktop\c#\homework\Homework04\Homework Class 5\DogApp\bin\Debug\net6.0\DogApp.deps.json
+C:\Users\PC\Desktop\c#\homework\Homework04\Homework Class 5\DogApp\bin\Debug\net6.0\DogApp.runtimeconfig.json
+C:\Users\PC\Desktop\c#\homework\Homework04\Homework Class 5\DogApp\bin\Debug\net6.0\DogApp.dll
+C:\Users\PC\Desktop\c#\homework\Homework04\Homework Class 5\DogApp\bin\Debug\net6.0\DogApp.pdb
+C:\Users\PC\Desktop\c#\homework\Homework04\Homework Class 5\DogApp\obj\Debug\net6.0\DogApp.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\c#\homework\Homework04\Homework Class 5\DogApp\obj\Debug\net6.0\DogApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\c#\homework\Homework04\Homework Class 5\DogApp\obj\Debug\net6.0\DogApp.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\c#\homework\Homework04\Homework Class 5\DogApp\obj\Debug\net6.0\DogApp.AssemblyInfo.cs
+C:\Users\PC\Desktop\c#\homework\Homework04\Homework Class 5\DogApp\obj\Debug\net6.0\DogApp.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\c#\homework\Homework04\Homework Class 5\DogApp\obj\Debug\net6.0\DogApp.dll
+C:\Users\PC\Desktop\c#\homework\Homework04\Homework Class 5\DogApp\obj\Debug\net6.0\refint\DogApp.dll
+C:\Users\PC\Desktop\c#\homework\Homework04\Homework Class 5\DogApp\obj\Debug\net6.0\DogApp.pdb
+C:\Users\PC\Desktop\c#\homework\Homework04\Homework Class 5\DogApp\obj\Debug\net6.0\DogApp.genruntimeconfig.cache
+C:\Users\PC\Desktop\c#\homework\Homework04\Homework Class 5\DogApp\obj\Debug\net6.0\ref\DogApp.dll
